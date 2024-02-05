@@ -46,7 +46,7 @@
 
 
 
-# :blue_heart: FLOW CHAR
+# :blue_heart: FLOW CHART
 <img width="464" alt="image" src="https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/a6200072-bf8a-4cf1-b3e4-83bf03792213">
 
 
