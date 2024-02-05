@@ -94,9 +94,8 @@
 
 *** 
 
-### :open_file_folder: 판매 상품
+### :open_file_folder: 생산품
 ![상품_리스트](https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/bbeb2b88-73f8-450b-a3f4-c512bc2cce1d)
-#### :point_right: 생산품 재고 리스트
-#
+#### :point_right: 생산계획서를 통해 생산한 생산품 재고 리스트
 
 ***
