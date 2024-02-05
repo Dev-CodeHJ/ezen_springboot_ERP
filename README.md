@@ -1,5 +1,5 @@
 # :blue_heart: ERP PROJECT
-<img alt="스크린샷 2024-02-04 오후 6 30 38" src="https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/9af5e118-eeab-47e1-bb2e-2c0e0865fe20">
+<img alt="스크린샷 2024-02-04 오후 6 30 38" src="https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/83ce5a62-b694-416b-afe5-3fc85a5e2dde">
 
 > ### 자전거 회사를 주제로 자전거 부품 구매 및 관리, 자전거 생산 및 관리를 할 수있는 ERP프로그램 입니다.
 
