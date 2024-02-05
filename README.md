@@ -42,12 +42,12 @@
 
 
 # :blue_heart: ERD
-<img width="887" alt="image" src="https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/0cc15098-a8e9-4d2f-a81d-67b06234db51">
+<img width="887" alt="image" src="https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/864cf402-50e6-41c2-b4b2-dc34fff0ec65">
 
 
 
 # :blue_heart: FLOW CHAR
-<img width="464" alt="image" src="https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/825cf308-f25e-4808-9fdc-a87f67b58659">
+<img width="464" alt="image" src="https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/a6200072-bf8a-4cf1-b3e4-83bf03792213">
 
 
 
