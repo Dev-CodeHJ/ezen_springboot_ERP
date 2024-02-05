@@ -59,20 +59,24 @@
 #
 
 ![생산계획서_등록](https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/b175b06a-9b18-4993-9865-c771733bdc99)
+#### :point_right: 새로운 생산계획서를 등록할 수 있는 기능 구현
+#
+
+![생산계획서_상품검색](https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/542291a2-2f58-4338-a4b8-44fa80a130bb)
+#### :point_right: 생산계획서 등록-상품선택 기능 구현
+#
+
+![생산계획서_원재자선택](https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/8f8e4c14-4f65-4b1a-8984-07139dcd4516)
+#### :point_right: 생산계획서 등록-상품 선택 시 원자재 선택 기능 구현
+#
+
 ![생산계획서_등록전](https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/b0702b17-d201-40d4-8657-fb74e361109b)
-#### :point_right: 생산계획서 등록버튼을 통해 새로운 생산계획서 등록 가능
+#### :point_right: 모든 항목 선택 시 등록 가능-등록 시 생산계획서 리스트에 새로운 생산계획서 생성
 #
 
-![image](https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/28e6507b-824c-4752-ad1d-a284843a304e)
-#### :point_right: 로그인 한 해당 사용자의 부서 및 이름 출력
-#
-
-![image](https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/9782002c-e47d-4c64-955b-3c5abfb400b3)
-#### :point_right: 인증된 사용자만 나의정보 수정 가능
-#
-
-![image](https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/3cd5163e-efcd-47ca-b7c8-a27fa2ac5b96)
-#### :point_right: 사용자에게 해당 권한이 없으면 접근 제어
+![생산계획서_디테일](https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/072ff2e0-39d6-4724-a957-546b182137ab)
+#### :point_right: 생산계획서 클릭 시 해당 생산계획서의 세부항목 확인 및 불출&불출취소 처리 기능 구현
+#### :point_right: 한 생산계획서의 모든 항복 불출 처리 시 출고처리 버튼 생성 - 출고완료 기능 구현
 
 ***
 
