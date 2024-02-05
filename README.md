@@ -1,4 +1,4 @@
-# :blue_heart: ERP PROJECT
+![원자재_디테일](https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/47991666-7d74-4f3e-8fa8-b8a0b136d45a)# :blue_heart: ERP PROJECT
 <img alt="스크린샷 2024-02-04 오후 6 30 38" src="https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/83ce5a62-b694-416b-afe5-3fc85a5e2dde">
 
 > ### 자전거 회사를 주제로 자전거 부품 구매 및 관리, 자전거 생산 및 관리를 할 수있는 ERP프로그램 입니다.
@@ -77,39 +77,26 @@
 ![생산계획서_디테일](https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/072ff2e0-39d6-4724-a957-546b182137ab)
 #### :point_right: 생산계획서 클릭 시 해당 생산계획서의 세부항목 확인 및 불출&불출취소 처리 기능 구현
 #### :point_right: 한 생산계획서의 모든 항복 불출 처리 시 출고처리 버튼 생성 - 출고완료 기능 구현
+#
+
+![생산계획서_출고완료](https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/7c9f2d12-0033-4332-8d30-0e28abaa99a4)
+#### :point_right: 출고완료된 생산계획서만 확인가능한 페이지 - 세부항목 확인 및 출고취소 기능 구현
 
 ***
 
-### :open_file_folder: 출하 명세서
-![image](https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/9c8a3826-a22f-46e5-9f3c-2d46d0bdc12c)
-#### :point_right: 출하 명세서 리스트
+### :open_file_folder: 원자재
+![원자재_리스트](https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/20b88c83-5d73-40de-91ec-2c52c9a75c70)
+#### :point_right: 원자재 총 재고 리스트(제조업체or단가에 따라 달라지는 원자재들을 원자재명으로 묶은 리스트 화면)
 #
 
-![image](https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/ac3eab9a-93be-4179-b1e5-aa1da52dfd29)
-#### :point_right: 출하 명세서 디테일 페이지에서 검수 시작 버튼을 누르면 검수 페이지로 이동
+![원자재_디테일](https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/f6f33a0e-5b8f-4e86-a74a-d1f86de4ec1a)
+#### :point_right: 해당 원자재 이름 클릭 시 같은 이름의 모든 자재 목록을 확인 가능
 
 *** 
 
-### :open_file_folder: 자재 검수
-![image](https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/c5a91118-08ef-440b-a75b-a26ea81e3dc0)
-#### :point_right: 자재 검수 리스트
+### :open_file_folder: 판매 상품
+![상품_리스트](https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/bbeb2b88-73f8-450b-a3f4-c512bc2cce1d)
+#### :point_right: 생산품 재고 리스트
 #
-
-![image](https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/b516ae9f-cd6d-4381-b983-8a549a8216f6)
-#### :point_right: 자재 검수 모달창. 반품 / 정품 처리 기능
-#
-
-![image](https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/f6e2cf6a-4888-45fe-88d8-d1b06532cd4c)
-#### :point_right: 검수 시 모달창으로 검수 개수 확인 가능
-
-***
-
-### :open_file_folder: 거래 명세서
-![image](https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/3d4e14ae-90ff-4005-a07e-ed10398fd171)
-#### :point_right: 거래 명세서 리스트
-#
-
-![image](https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/c5145dcd-4175-4150-bf38-48fbae3679cb)
-#### :point_right: 거래 명세서 내역 조회 기능
 
 ***
