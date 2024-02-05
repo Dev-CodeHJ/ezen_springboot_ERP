@@ -52,15 +52,15 @@
 
 
 # :blue_heart: 구현 기능
-### :open_file_folder: 스프링 시큐리티
+### :open_file_folder: 생산계획서
 
-![image](https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/6cb6f183-5a1d-43ae-b3a6-6cc672c49b69)
-![image](https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/42b0502b-f5b4-41b3-98da-79a8f7c92826)
-#### :point_right: 스프링 시큐리티를 통해 로그인 및 회원가입 구현
+![생산계획서리스트_미출고](https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/bada9410-3e53-4832-a5ca-28287f239b28)
+#### :point_right: 모든 생산계획서를 상태별로 구분 가능
 #
 
-![image](https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/c63cc51b-aed5-4c9b-9f29-2a5a174485e6)
-#### :point_right: ADMIN 권한을 가진 사용자만이 사원들의 권한을 부여 가능
+![생산계획서_등록](https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/b175b06a-9b18-4993-9865-c771733bdc99)
+![생산계획서_등록전](https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/b0702b17-d201-40d4-8657-fb74e361109b)
+#### :point_right: 생산계획서 등록버튼을 통해 새로운 생산계획서 등록 가능
 #
 
 ![image](https://github.com/skgusskgusgg/ERP-project-Java/assets/92068041/28e6507b-824c-4752-ad1d-a284843a304e)
