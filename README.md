@@ -55,7 +55,11 @@
 ### :open_file_folder: 생산계획서
 
 ![생산계획서리스트_미출고](https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/bada9410-3e53-4832-a5ca-28287f239b28)
-#### :point_right: 모든 생산계획서를 상태별로 구분 가능
+#### :point_right: 모든 생산계획서 세부 디테일, 등록, 삭제, 검색 등 기능 구현 및 생산계획서 상태 별로 구분 기능 구현
+#
+
+![생산계획서리스트_검색](https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/860c0511-c0ee-40e8-977c-55caccb24473)
+#### :point_right: 생산계획서 리스트에서 자전거 이름, 마감일로 검색 기능 구현
 #
 
 ![생산계획서_등록](https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/b175b06a-9b18-4993-9865-c771733bdc99)
@@ -75,8 +79,9 @@
 #
 
 ![생산계획서_디테일](https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/072ff2e0-39d6-4724-a957-546b182137ab)
-#### :point_right: 생산계획서 클릭 시 해당 생산계획서의 세부항목 확인 및 불출&불출취소 처리 기능 구현
-#### :point_right: 한 생산계획서의 모든 항복 불출 처리 시 출고처리 버튼 생성 - 출고완료 기능 구현
+#### :point_right: 생산계획서 클릭 시 해당 생산계획서의 세부항목 확인 및 불출&불출취소 기능 구현
+#### :point_right: 불출&불출취소 시 해당 원자재의 재고 즉각 반영
+#### :point_right: 한 생산계획서의 모든 항복 불출 처리 시 출고처리 버튼 생성 - 버튼 클릭 시 출고완료처리 기능 구현
 #
 
 ![생산계획서_출고완료](https://github.com/Dev-CodeHJ/ezen_springboot_ERP/assets/103896076/7c9f2d12-0033-4332-8d30-0e28abaa99a4)
